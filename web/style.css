@@ -1,0 +1,94 @@
+body {margin: 0;padding:0 ;background-image: url(image/bg-green-wave.png);background-position:center;background-size:cover;}
+
+header { 
+background-image: url(image/blue_bg.jpg);  background-size: cover;}
+
+header > section {padding : 3em 10% 3em 10%; text-align:center; font-size:1.5em;
+}
+
+
+ul.menu {background: deepskyblue;margin: 0;list-style-type : none; padding: 0 10% 0 10%; position:relative;overflow:auto;}
+
+ul.menu  li  a { text-decoration:none; color: red; font-size:1.2em;
+	float: left; padding: 0.5em 0em 0.5em 0.8em;
+}
+ul.menu li a:hover{ color:white;
+	
+}
+
+article {display: block;}
+article > section{
+	padding: 1em 10% 0.5em 10%;
+	background-color: rgba(255,255,255,0.7); /*สีพื้นหลัง*/
+	
+}
+
+article >section> h2{ text-align: center; border-bottom: solid 3px deepskyblue;
+
+}
+#pp {
+	text-indent:50px; /*ย่อหน้า*/
+	text-align:justify;
+}
+
+#img2 { width: 70%;}
+
+article >section> h3 { font-size:1.2em;border-bottom: solid 3px deepskyblue;
+}
+
+#imgL {
+	height: 300px;
+	float: left; 
+	margin-right: 20px;
+	 
+}
+#imgR {
+	height:  270px;
+	float: right;
+	margin-left: 20px;
+}
+
+#icon {
+	 height: 1.1em;
+	 vertical-align: top;
+}
+
+.minH{min-height: 320px;}
+
+article > section > h4 {
+	color: SlateGrey;
+	border-left: 2px solide ;
+}
+footer {
+	background: deepskyblue;
+	color: red;
+	font-size: 15px;
+	padding: 0.5em 10% 1em 10%;
+}
+footer > section:first-child {
+	float: right;
+	width:30%;
+}
+footer > section >a:link,footer >section >a:visited{
+	text-decoration: none;
+	
+}
+
+
+@media screen and (max-width: 900px){
+	ul.menu { padding:0;}
+	ul.menu  li  a  {
+		display: block;
+		float: none;
+		text-align:center;   }
+		article > section{
+			padding:0.5em 10px 10px 10px;}
+			#img2 { width:100%;}
+			#imgL,imgR{width:100%; height:auto;}
+			footer {
+				padding: 0.5em 10px 10px 10px;
+			}
+		footer > section:first-child {
+			display:none;
+		}			
+}

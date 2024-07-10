@@ -1,0 +1,15 @@
+Internets for Everyday Life | อินเทอร์เน็ตในชีวิตประจำวัน
+รหัสวิชา :: 2-230-110
+หน่วยกิต :: 3 (2-2-5)
+
+Course Description
+ความหมายของการสื่อสารข้อมูลและเครือข่ายคอมพิวเตอร์ รูปแบบการเชื่อมต่อของเครือข่ายคอมพิวเตอร์ หมายเลขประจำเครื่องระดับฮาร์ดแวร์ หมายเลขอินเทอร์เน็ต ระบบโดเมนเนม การสื่อสารและกลไกการทำงานของเว็บเพจ การสร้างเว็บเพจด้วยภาษาเอชทีเอ็มแอลและภาษาสคริปต์ การใช้โปรแกรมสำเร็จรูปเพื่อช่วยสร้างเว็บเพจ ประเภทของสื่อสังคมออนไลน์ ความมั่นคงปลอดภัยของข้อมูลส่วนบุคคลในการใช้งานเครือข่ายอินเทอร์เน็ต การประยุกต์ใช้เครือข่ายอินเทอร์เน็ตในงานวิชาชีพ
+
+Meaning of data communication and computer network, types of computer network connection, MAC address, IP address, Domain Name System; communication and underlying structure of web page, building web page with HTML and scripting language; use of package software to build web page, types of social media, information security and privacy in computer network, application of computer network in working environment.
+
+การวัดผล
+การเข้าเรียน 10 คะแนน
+สอบปลายภาค 30 คะแนน
+สอบเก็บคะแนน 30 คะแนน
+งานในชั้นเรียน 20 คะแนน
+งานเว็บ 10 คะแนน
